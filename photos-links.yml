@@ -1,0 +1,21 @@
+Bengaluru:
+  events:
+    - date: "2024-07-05"
+      photos:
+        - "https://raw.githubusercontent.com/gittogethers/bengaluru/refs/heads/main/assets/2024-07-05.jpg"
+        - "https://raw.githubusercontent.com/gittogethers/bengaluru/refs/heads/main/assets/2024-07-05.jpg"
+    - date: "2024-08-28"
+      photos:
+        - "https://raw.githubusercontent.com/gittogethers/bengaluru/main/assets/2024-08-24.png"
+        - "https://raw.githubusercontent.com/gittogethers/bengaluru/main/assets/2024-08-24.png"
+
+Delhi NCR:
+  events:
+    - date: "2024-07-05"
+      photos:
+        - "https://raw.githubusercontent.com/gittogethers/bengaluru/refs/heads/main/assets/2024-07-05.jpg"
+        - "https://raw.githubusercontent.com/gittogethers/bengaluru/refs/heads/main/assets/2024-07-05.jpg"
+    - date: "2024-08-28"
+      photos:
+        - "https://raw.githubusercontent.com/gittogethers/bengaluru/main/assets/2024-08-24.png"
+        - "https://raw.githubusercontent.com/gittogethers/bengaluru/main/assets/2024-08-24.png"

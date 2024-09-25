@@ -1,0 +1,58 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 10px;
+    padding: 10px;
+}
+
+.grid-item {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.grid-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 100 100"><defs><linearGradient id="grad" x1="0%" y1="100%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:rgb(0,0,255);stop-opacity:0.7" /><stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:0.1" /></linearGradient></defs><rect width="100" height="100" fill="url(%23grad)" /></svg>');
+    background-size: cover;
+}
+
+.grid-text {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    z-index: 2;
+}
+
+.download-link {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
