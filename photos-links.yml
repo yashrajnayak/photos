@@ -6,24 +6,36 @@ Bengaluru:
         - "https://secure.meetupstatic.com/photos/event/7/f/b/5/highres_522212693.webp"
         - "https://secure.meetupstatic.com/photos/event/7/f/b/6/highres_522212694.webp"
         - "https://secure.meetupstatic.com/photos/event/7/f/b/7/highres_522212695.webp"
-    - date: "2024-08-28"
+    - date: "24th August 2024"
       photos:
         - "https://secure.meetupstatic.com/photos/event/4/1/9/0/highres_523156784.webp"
         - "https://secure.meetupstatic.com/photos/event/4/1/8/9/highres_523156777.webp"
         - "https://secure.meetupstatic.com/photos/event/4/1/8/a/highres_523156778.webp"
         - "https://secure.meetupstatic.com/photos/event/4/1/8/c/highres_523156780.webp"
+    - date: "28th September 2024"
+      photos:
+        - "https://secure.meetupstatic.com/photos/event/2/8/5/d/highres_523810333.webp"
+        - "https://secure.meetupstatic.com/photos/event/2/8/6/b/highres_523810347.webp"
+        - "https://secure.meetupstatic.com/photos/event/2/8/7/4/highres_523810356.webp"
+        - "https://secure.meetupstatic.com/photos/event/2/8/7/8/highres_523810360.webp"
 
 Delhi NCR:
   events:
-    - date: "2024-07-06"
+    - date: "6th July 2024"
       photos:
         - "https://secure.meetupstatic.com/photos/event/5/4/0/e/highres_523161518.webp"
         - "https://secure.meetupstatic.com/photos/event/5/3/f/b/highres_523161499.webp"
         - "https://secure.meetupstatic.com/photos/event/5/3/f/d/highres_523161501.webp"
         - "https://secure.meetupstatic.com/photos/event/5/3/f/e/highres_523161502.webp"
-    - date: "2024-08-28"
+    - date: "24th August 2024"
       photos:
         - "https://secure.meetupstatic.com/photos/event/4/0/1/f/highres_523156415.webp"
         - "https://secure.meetupstatic.com/photos/event/4/0/1/1/highres_523156401.webp"
         - "https://secure.meetupstatic.com/photos/event/4/0/1/2/highres_523156402.webp"
         - "https://secure.meetupstatic.com/photos/event/4/0/1/3/highres_523156403.webp"
+    - date: "28th September 2024"
+      photos:
+        - "https://secure.meetupstatic.com/photos/event/a/0/9/1/highres_523841105.webp"
+        - "https://secure.meetupstatic.com/photos/event/a/0/9/0/highres_523841104.webp"
+        - "https://secure.meetupstatic.com/photos/event/a/0/9/4/highres_523841108.webp"
+        - "https://secure.meetupstatic.com/photos/event/a/0/9/6/highres_523841110.webp"
